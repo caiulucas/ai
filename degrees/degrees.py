@@ -92,12 +92,10 @@ def shortest_path(source, target):
     If no possible path, returns None.
     """
 
-
     start = Node(state=source, parent=None, action=None)
 
     if (start.state == target):
         return []
-
 
     explored = set()
     frontier = QueueFrontier()
