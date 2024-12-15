@@ -1,0 +1,8 @@
+Caio Lucas Pereira da Silva
+
+Link do repositório
+https://github.com/caiulucas/ai
+
+Notas: 
+degrees 7/7
+tictactoe 31/31
